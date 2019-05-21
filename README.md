@@ -1,3 +1,3 @@
 meu primeiro sistema no GIT
 
-Alteração no deadme para descrever melhor meu sistema
+Alteracao no readme para descrever melhor meu sistema
